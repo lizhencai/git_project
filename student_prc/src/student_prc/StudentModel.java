@@ -1,8 +1,8 @@
 package student_prc;
 
 public class StudentModel {
-	private int id;
-	private String username;
+	private int id;//修改
+	private String username;//修改
 	private String password;
 	private int sex;
 	private String love;
